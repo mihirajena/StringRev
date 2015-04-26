@@ -16,6 +16,7 @@ public class Main {
         }
 
         System.out.println("after rev string is ::"+aftre);
+        System.out.println("my git");
 
                     }
 }
